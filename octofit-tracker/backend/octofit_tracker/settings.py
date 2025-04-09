@@ -6,7 +6,7 @@ SECRET_KEY = 'your-secret-key'
 
 DEBUG = True
 
-ALLOWED_HOSTS = ['*']
+ALLOWED_HOSTS = ['localhost', 'studious-space-capybara-6975jjq7jxgh49pw-8000.app.github.dev']
 
 INSTALLED_APPS = [
     'django.contrib.admin',
